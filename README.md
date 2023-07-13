@@ -1,4 +1,4 @@
-# AMEE_Cronbach
+# Testing the Unidimensionality of Risk Perception: An Empirical Study Using Cronbach's Alpha on Online Surveys
 
 # Project Name
 
@@ -10,7 +10,7 @@ This repository contains the data, code, and results associated with the paper "
 
 The repository is structured as follows:
 
-- `data/`: This directory contains all the data used in this project. Raw data is found in the `raw/` subdirectory and processed data is found in the `processed/` subdirectory.
-- `code/`: This directory contains all the code used in this project. Interactive analyses are found in the `notebooks/` subdirectory, and more production-level code is in the `scripts/` subdirectory.
+- `data/`: This directory contains all the data used in this project.
+- `code/`: This directory contains all the code used in this project. Interactive analyses are found there.
 - `paper/`: This directory contains the paper and any supplementary information related to it.
 
