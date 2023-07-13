@@ -4,8 +4,7 @@
 
 ## Introduction
 
-This repository contains the data, code, and results associated with the paper "Testing the Unidimensionality of Risk Perception: An 
-Empirical Study Using Cronbach's Alpha on Online Surveys" by Boyan Markov and Angel Marche. Our aim is to make our research as reproducible as possible, so we provide all our data and code here.
+This repository contains the data, code, and results associated with the paper "Testing the Unidimensionality of Risk Perception: An Empirical Study Using Cronbach's Alpha on Online Surveys" by Boyan Markov and Angel Marchev. Our aim is to make our research as reproducible as possible, so we provide all our data and code here.
 
 ## Structure
 
